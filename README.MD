@@ -1,0 +1,1 @@
+AWS module to create a Loadbalancer with default redirection from 80 to 443 port
